@@ -247,6 +247,8 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
+  margin-left: 5px;
+  margin-top: 9px;
 }
 
 .button:hover {
@@ -320,11 +322,11 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 90%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 75%;
 }
 
 .skills__js {
